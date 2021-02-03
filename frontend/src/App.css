@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  margin: 0 5rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.slide{
+  border: 1px solid black; 
+  margin: 10px;
+  padding: 5px;
+}
+
+a{
+  margin:1rem;
+  font-size: xx-large;
+}
